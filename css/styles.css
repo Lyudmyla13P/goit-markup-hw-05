@@ -610,6 +610,9 @@ box-shadow: 1px 6px rgba(46, 47, 66, 0.08),
     margin-bottom: 4px;
 
 }
+.comment{
+    margin-bottom: 16px;
+}
 .input-icons{
     position: relative;
 }
