@@ -600,6 +600,7 @@ box-shadow: 1px 6px rgba(46, 47, 66, 0.08),
 /* ======Form===== */
 .review-form-field-wrapper{
     margin-bottom: 8px;
+    
 }
 .review-form-field-label{
     font-size: 12px;
@@ -658,15 +659,17 @@ box-shadow: 1px 6px rgba(46, 47, 66, 0.08),
 .review-form-message:focus{
     border-color: #4D5AE5;
 }
-.user-policy-p{
-    margin-bottom: 24px;
-}
+
 
 .review-form-checkbox-label{
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
+
+}
+.review-form-checkbox-wrapper{
+    margin-bottom: 24px;
 
 }
 .review-form-owm-checkbox{
