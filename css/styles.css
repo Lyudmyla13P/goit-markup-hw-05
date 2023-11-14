@@ -571,6 +571,9 @@ box-shadow: 1px 6px rgba(46, 47, 66, 0.08),
     border: none;
     border-radius: 4px;
 }
+.subscribe{
+    margin-left: auto;
+}
 /* ======Footer========= */
 /* ====Backdrop===== */
 .backdrop{
